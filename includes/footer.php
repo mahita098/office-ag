@@ -1,0 +1,146 @@
+<footer>
+    <div class="footer-wrapper">
+        <div class="footer-text">
+            <div class="logo"><span>D</span>ot<span>C</span>om
+            </div>
+            <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et
+            </p>
+            <div class="socialmedia-links">
+                <div class="svg-round">
+                    <svg width="20" height="15" viewBox="0 0 11 20" fill="rgb(232, 139, 77)" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M9.11999 3.32H11V0.139999C10.0897 0.0453465 9.17514 -0.0013848 8.25999 -6.53468e-07C5.53999 -6.53468e-07 3.67999 1.66 3.67999 4.7V7.32H0.609985V10.88H3.67999V20H7.35998V10.88H10.42L10.88 7.32H7.35998V5.05C7.35998 4 7.63999 3.32 9.11999 3.32Z" fill="rgb(232, 139, 77)" />
+                    </svg>
+
+                </div>
+                <div class="svg-round">
+                    <svg width="20" height="15" viewBox="0 0 22 17" fill="rgb(232, 139, 77)" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M21.46 2C20.69 2.35 19.86 2.58 19 2.69C19.88 2.16 20.56 1.32 20.88 0.31C20.05 0.81 19.13 1.16 18.16 1.36C17.37 0.5 16.26 0 15 0C12.65 0 10.73 1.92 10.73 4.29C10.73 4.63 10.77 4.96 10.84 5.27C7.28004 5.09 4.11004 3.38 2.00004 0.79C1.63004 1.42 1.42004 2.16 1.42004 2.94C1.42004 4.43 2.17004 5.75 3.33004 6.5C2.62004 6.5 1.96004 6.3 1.38004 6V6.03C1.38004 8.11 2.86004 9.85 4.82004 10.24C4.19077 10.4122 3.53013 10.4362 2.89004 10.31C3.16165 11.1625 3.69358 11.9084 4.41106 12.4429C5.12854 12.9775 5.99549 13.2737 6.89004 13.29C5.37367 14.4904 3.49404 15.1393 1.56004 15.13C1.22004 15.13 0.880039 15.11 0.540039 15.07C2.44004 16.29 4.70004 17 7.12004 17C15 17 19.33 10.46 19.33 4.79C19.33 4.6 19.33 4.42 19.32 4.23C20.16 3.63 20.88 2.87 21.46 2Z" fill="rgb(232, 139, 77)" />
+                    </svg>
+                </div>
+                <div class="svg-round"><svg width="20" height="15" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4.93994 1.99999C4.93968 2.53043 4.72871 3.03903 4.35345 3.41391C3.97819 3.7888 3.46937 3.99926 2.93894 3.99899C2.40851 3.99873 1.89991 3.78776 1.52502 3.4125C1.15014 3.03724 0.939676 2.52843 0.939942 1.99799C0.940207 1.46756 1.15117 0.958958 1.52644 0.584072C1.9017 0.209187 2.41051 -0.00127205 2.94094 -0.00100683C3.47137 -0.000741613 3.97998 0.210226 4.35486 0.585487C4.72975 0.960747 4.94021 1.46956 4.93994 1.99999ZM4.99994 5.47999H0.999942V18H4.99994V5.47999ZM11.3199 5.47999H7.33994V18H11.2799V11.43C11.2799 7.76999 16.0499 7.42999 16.0499 11.43V18H19.9999V10.07C19.9999 3.89999 12.9399 4.12999 11.2799 7.15999L11.3199 5.47999Z" fill="rgb(232, 139, 77)" />
+                    </svg></div>
+                <div class="svg-round"><svg width="20" height="15" viewBox="0 0 20 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M8 10L13.19 7L8 4V10ZM19.56 2.17C19.69 2.64 19.78 3.27 19.84 4.07C19.91 4.87 19.94 5.56 19.94 6.16L20 7C20 9.19 19.84 10.8 19.56 11.83C19.31 12.73 18.73 13.31 17.83 13.56C17.36 13.69 16.5 13.78 15.18 13.84C13.88 13.91 12.69 13.94 11.59 13.94L10 14C5.81 14 3.2 13.84 2.17 13.56C1.27 13.31 0.69 12.73 0.44 11.83C0.31 11.36 0.22 10.73 0.16 9.93C0.0900001 9.13 0.0599999 8.44 0.0599999 7.84L0 7C0 4.81 0.16 3.2 0.44 2.17C0.69 1.27 1.27 0.69 2.17 0.44C2.64 0.31 3.5 0.22 4.82 0.16C6.12 0.0899998 7.31 0.0599999 8.41 0.0599999L10 0C14.19 0 16.8 0.16 17.83 0.44C18.73 0.69 19.31 1.27 19.56 2.17Z" fill="rgb(232, 139, 77)" />
+                    </svg></div>
+
+
+
+
+
+            </div>
+        </div>
+
+        <div class="quick-popular-links">
+            <p class="sub-title">Quick Links</p>
+            <div class="links-details">
+                <ul>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">About Us</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Contact Us</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Terms & Condition</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Support</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="quick-popular-links">
+            <p class="sub-title">Popular links</p>
+            <div class="links-details">
+                <ul>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">About Us</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Contact Us</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Terms & Condition</a>
+                    </li>
+                    <li>
+                        <span><svg width="16" height="13" viewBox="0 0 13 20" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="rgb(232, 139, 77)" stroke-width="2">
+                                <path d="M2.025 20L0.25 18.225L8.475 10L0.25 1.775L2.025 0L12.025 10L2.025 20Z" fill="rgb(232, 139, 77)" />
+                            </svg>
+                        </span>
+                        <a href="#">Support</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="get-in-touch">
+            <p class="sub-title">Get In Touch</p>
+            <p>Dolor clita stet nonumy clita diam vero, et et ipsum diam labore</p>
+            <ul class="get-in-touch-details">
+                <li>
+                    <span>
+                        <svg width="18" height="16" viewBox="0 0 16 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M8 10C8.55 10 9.021 9.804 9.413 9.412C9.805 9.02 10.0007 8.54933 10 8C10 7.45 9.804 6.979 9.412 6.587C9.02 6.195 8.54933 5.99933 8 6C7.45 6 6.979 6.196 6.587 6.588C6.195 6.98 5.99933 7.45067 6 8C6 8.55 6.196 9.021 6.588 9.413C6.98 9.805 7.45067 10.0007 8 10ZM8 20C5.31667 17.7167 3.31267 15.596 1.988 13.638C0.663333 11.68 0.000666667 9.86733 0 8.2C0 5.7 0.804333 3.70833 2.413 2.225C4.02167 0.741667 5.884 0 8 0C10.1167 0 11.9793 0.741667 13.588 2.225C15.1967 3.70833 16.0007 5.7 16 8.2C16 9.86667 15.3373 11.6793 14.012 13.638C12.6867 15.5967 10.6827 17.7173 8 20Z" fill="rgb(232, 139, 77)" />
+                        </svg>
+                    </span>
+                    <a href="">123 Street, New York, USA</a>
+                </li>
+                <li> <span><svg width="15" height="14" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M18 4L10 9L2 4V2L10 7L18 2M18 0H2C0.89 0 0 0.89 0 2V14C0 14.5304 0.210714 15.0391 0.585786 15.4142C0.960859 15.7893 1.46957 16 2 16H18C18.5304 16 19.0391 15.7893 19.4142 15.4142C19.7893 15.0391 20 14.5304 20 14V2C20 1.46957 19.7893 0.960859 19.4142 0.585786C19.0391 0.210714 18.5304 0 18 0Z" fill="rgb(232, 139, 77)" />
+                        </svg></span> <a href="mailto:info@example.com">info@example.com</a></li>
+                <li> <span><svg width="15" height="16" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M16.95 18C14.8 18 12.7043 17.5207 10.663 16.562C8.62167 15.6033 6.81333 14.3367 5.238 12.762C3.66267 11.1873 2.396 9.379 1.438 7.337C0.48 5.295 0.000666667 3.19933 0 1.05C0 0.75 0.0999999 0.5 0.3 0.3C0.5 0.0999999 0.75 0 1.05 0H5.1C5.33333 0 5.54167 0.0749999 5.725 0.225C5.90833 0.375 6.01667 0.566667 6.05 0.8L6.7 4.3C6.73333 4.53333 6.729 4.746 6.687 4.938C6.645 5.13 6.54933 5.30067 6.4 5.45L4 7.9C4.7 9.1 5.575 10.225 6.625 11.275C7.675 12.325 8.83333 13.2333 10.1 14L12.45 11.65C12.6 11.5 12.796 11.3877 13.038 11.313C13.28 11.2383 13.5173 11.2173 13.75 11.25L17.2 11.95C17.4333 12 17.625 12.1127 17.775 12.288C17.925 12.4633 18 12.6673 18 12.9V16.95C18 17.25 17.9 17.5 17.7 17.7C17.5 17.9 17.25 18 16.95 18Z" fill="rgb(232, 139, 77)" />
+                        </svg>
+                    </span> <a href="tel:+0123456789">+012 345 6789</a></li>
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="copyright">© <span>Your Site Name.</span> All Rights Reserved. Designed by <span>HTML Codex</span>
+    </div>
+</footer>
