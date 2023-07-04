@@ -2,7 +2,7 @@
 
 This is another practical page i built to learn Html, Sass, JS.
 
-Site is live ✨ - office-ag.netlify.app
+Site is live ✨ - https://office-ag.netlify.app/
 
 ## Tech stack used
 
