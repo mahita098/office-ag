@@ -73,19 +73,19 @@ button {
             }
 
             &:nth-child(1) {
-                background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/carousel-1.jpg);
+                background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/office1.jpg);
                 background-repeat: no-repeat;
                 background-size: cover;
             }
 
             &:nth-child(2) {
-                background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/carousel-2.jpg);
+                background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/office2.jpg);
                 background-repeat: no-repeat;
                 background-size: cover;
             }
 
             &:nth-child(3) {
-                background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/carousel-3.jpg);
+                background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/office3.jpg);
                 background-repeat: no-repeat;
                 background-size: cover;
             }
